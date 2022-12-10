@@ -3,11 +3,8 @@
 
 <div>
   <a href="https://github.com/osmaralexandre">
-  <img height="135em" src="https://github-readme-stats.vercel.app/api?username=osmaralexandre&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  </a>
-  <a href="https://github.com/osmaralexandre">
-  <img height="135em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=osmaralexandre&layout=compact&langs_count=7&theme=tokyonight"/>
-  </a>
+  <img height="130em" src="https://github-readme-stats.vercel.app/api?username=osmaralexandre&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="130em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=osmaralexandre&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
 
 <div style="display: inline_block"><br>
