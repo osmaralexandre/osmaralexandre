@@ -3,8 +3,8 @@
 
 <div>
   <a href="https://github.com/osmaralexandre">
-  <img align="center" height="140em" src="https://github-readme-stats.vercel.app/api?username=osmaralexandre&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img align="center" height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=osmaralexandre&layout=compact&langs_count=7&theme=tokyonight"/>
+  <img height="140em" src="https://github-readme-stats.vercel.app/api?username=osmaralexandre&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=osmaralexandre&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
 
 <div style="display: inline_block"><br>
@@ -20,6 +20,5 @@
   <a href="https://www.linkedin.com/in/osmaralexandre/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   <a href = "mailto:osmaralexandre93@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
  
- ![Snake animation](https://github.com/osmaralexandre/osmaralexandre/blob/output/github-contribution-grid-snake.svg)
- 
+ ![Snake animation](https://github.com/osmaralexandre/osmaralexandre/blob/output/github-contribution-grid-snake.svg) 
 </div>
