@@ -4,6 +4,7 @@
 <div align="center">
   <a href="https://github.com/osmaralexandre">
   <img align="center" height="140em" src="https://github-readme-stats.vercel.app/api?username=osmaralexandre&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <a href="https://github.com/osmaralexandre">
   <img align="center" height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=osmaralexandre&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
 
