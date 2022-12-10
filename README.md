@@ -1,7 +1,6 @@
 
 ## Oi, eu sou o Osmar Alexandre, mestre em engenharia de estruturas e estudante de ciência de dados e machine learning.
 
-<div align="center">
   <a href="https://github.com/osmaralexandre">
   <img align="center" height="140em" src="https://github-readme-stats.vercel.app/api?username=osmaralexandre&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
   </a>
