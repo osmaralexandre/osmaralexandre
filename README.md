@@ -1,5 +1,5 @@
 
-## Oi, eu sou o Osmar Alexandre, mestre em engenharia de estruturas e estudante de ciência de dados e machine learning.
+## Hello, my name is Osmar Alexandre, I have a master's degree in structural engineering and I am a student of data science and machine learning.
 
 <div>
   <a href="https://github.com/osmaralexandre">
